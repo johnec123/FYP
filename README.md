@@ -1,4 +1,4 @@
-# FYP
+# Final Year Project 
 
 Determining  the  location  on  the  Irish  National  Grid  is  an  issue  many  people  who  enjoy 
 outdoor activities  such as  mountaineering  encounter.  The problem arises  when with the use 
@@ -10,6 +10,9 @@ to  the coordinates used  in  the Irish National Grid  reference system.  Other 
 in  the  application  such  as  a  navigational  feature  that  can  determine  the  distance  from  a 
 destination.
 
+
+
+![](Wear%20OS%20Screenshot.png) ![](screen.png) 
 
 
 
