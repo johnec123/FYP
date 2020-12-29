@@ -1,0 +1,13 @@
+<resources>
+    <string name="hello_world">Hello Round World!</string>
+    <string name="distance">Distance KM:</string>
+    <string name="start">Start</string>
+    <string name="longName">Long</string>
+    <string name="lat">Lat</string>
+    <string name="stop">Stop</string>
+    <string name="east">East</string>
+    <string name="north">North</string>
+    <string name="deste">Easting</string>
+    <string name="destn">Northing</string>
+    <string name="grid">Grid Reference:</string>
+</resources>
